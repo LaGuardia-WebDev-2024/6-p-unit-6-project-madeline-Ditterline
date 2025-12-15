@@ -8,10 +8,22 @@ void setup() {
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
   fill(255,255,255);
-  strokeWeight(1);
+  strokeWeight(5);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  line(205,0,205,400)
+  strokeWeight(3)
+  line(37,142,37,280)
+  line(55,150,55,349)
+  line(77,150,77,364)
+  line(117,165,117,379)
+  line(137,149,151,199)
+
+  line(164,0,164,182)
+  line(227,0,227,182)
+  line(164,182,135,229)
+  line(227,182,280,229)
+  line(134,229,280,229)
 
   
 
