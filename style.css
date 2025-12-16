@@ -1,5 +1,5 @@
 body {
-   background-image: linear-gradient(
+   background-image:gradient(
     to right, /* or 'to bottom' for horizontal stripes, or an angle like 45deg */
     #DAA928 0%, /* Red starts at 0% */
     #FB8931 25%, /* Red ends at 25% */

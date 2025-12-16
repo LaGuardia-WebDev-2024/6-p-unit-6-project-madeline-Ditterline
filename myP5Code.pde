@@ -11,21 +11,53 @@ void draw(){
   strokeWeight(5);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
+ //midline
+  stroke(1,1,1)
   line(205,0,205,400)
+  //yellowlines
+ stroke(251, 165, 54)
   strokeWeight(3)
   line(37,142,37,280)
   line(55,150,55,349)
   line(77,150,77,364)
   line(117,165,117,379)
   line(137,149,151,199)
+//nose
+stroke(232, 26, 72)
+fill(232,26,72)
+beginShape();
+vertex(134,228);
+vertex(164,188);
+vertex(227,188);
+vertex(280,228);
+vertex(134,228)
+endShape();
+//noseagain
+fill(193, 34, 98)
+stroke(210, 34, 81)
+rect(164,0,63,182);
+strokeWeight(5)
+line(164,186,228,186)
+stroke(1,1,1)
+strokeWeight(4)
+  line(164,0,164,182);
+  line(227,0,227,182);
+  line(164,182,135,229);
+  line(227,182,280,229);
+  line(134,229,280,229);
 
-  line(164,0,164,182)
-  line(227,0,227,182)
-  line(164,182,135,229)
-  line(227,182,280,229)
-  line(134,229,280,229)
+//noselines
+stroke(119, 135, 108)
+strokeWeight(2)
+line(168,181,223,175)
+line(167,150,223,150)
+line(167,127,223,122)
+line(167,108,219,103)
+line(167,74,223,73)
+line(167,40,223,40)
+line(167,10,223,10)
 
-  
+
 
 }
 
