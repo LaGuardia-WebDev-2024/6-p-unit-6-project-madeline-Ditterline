@@ -29,7 +29,7 @@ beginShape();
 vertex(134,228);
 vertex(164,188);
 vertex(227,188);
-vertex(280,228);
+vertex(269,228);
 vertex(134,228)
 endShape();
 //noseagain
@@ -43,12 +43,13 @@ strokeWeight(4)
   line(164,0,164,182);
   line(227,0,227,182);
   line(164,182,135,229);
-  line(227,182,280,229);
-  line(134,229,280,229);
+  line(227,182,269,229);
+  line(134,229,269,229);
 
 //noselines
 stroke(119, 135, 108)
 strokeWeight(2)
+fill(119,135,108)
 line(168,181,223,175)
 line(167,150,223,150)
 line(167,127,223,122)
@@ -56,7 +57,31 @@ line(167,108,219,103)
 line(167,74,223,73)
 line(167,40,223,40)
 line(167,10,223,10)
+ellipse(162,200,4,4)
+ellipse(189,208,4,4)
+ellipse(206,207,4,4)
+ellipse(230,204,4,4)
 
+stroke(251, 165, 54)
+strokeWeight(2)
+line(182,182,177,225)
+line(200,188,201,225)
+line(214,179,230,223)
+
+//eye1
+fill(226, 177, 46)
+strokeWeight(4)
+stroke(1,1,1)
+beginShape();
+vertex(0,87);
+vertex(10,54);
+vertex(66,39);
+vertex(127,49);
+vertex(164,93);
+vertex(164,126)
+vertex(78,157);
+vertex(0,120);
+endShape();
 
 
 }
