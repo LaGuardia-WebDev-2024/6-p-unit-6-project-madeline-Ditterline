@@ -84,6 +84,32 @@ vertex(0,120);
 endShape();
 
 
+fill(55,153,216);
+strokeWeight(5)
+ellipse(79,83,65,86);
+
+fill(55,153,216);
+strokeWeight(2);
+stroke(34,107,199);
+ellipse(79,76,52,64);
+
+fill(1,1,1)
+stroke(1,1,1)
+ellipse(75,82,12,17)
+
+fill(221,19,59)
+beginShape()
+vertex(0,0);
+vertex(164,0);
+vertex(164,93);
+vertex(127,49);
+vertex(66,39);
+vertex(10,54);
+vertex(0,87);
+vertex(0,0);
+endShape()
+
+
 }
 
 //🟡Extra FUN Features Ms. Hall Added
