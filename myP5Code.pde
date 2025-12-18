@@ -19,7 +19,7 @@ void draw(){
  beginShape()
  vertex(0,120);
  vertex(0,291);
- vertex(43,319);
+ vertex(32,349);
  vertex(79,374);
  vertex(117,391);
  vertex(200,400);
@@ -36,7 +36,7 @@ void draw(){
  vertex(78,157);
  vertex(0,120);
  endShape()
- 
+
   //yellowlines
  stroke(251, 165, 54)
   strokeWeight(3)
