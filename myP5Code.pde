@@ -16,6 +16,7 @@ void draw(){
   line(205,0,205,400)
 
  //orange
+ fill(229, 124, 72)
  beginShape()
  vertex(0,120);
  vertex(0,291);
@@ -24,7 +25,7 @@ void draw(){
  vertex(117,391);
  vertex(200,400);
  vertex(200,356);
- vertex(163,337);
+ vertex(163,345);
  vertex(130,321);
  vertex(144,290);
  vertex(177,275);
