@@ -24,7 +24,7 @@ void draw(){
  vertex(117,391);
  vertex(200,400);
  vertex(200,356);
- vertex(240,337);
+ vertex(163,337);
  vertex(130,321);
  vertex(144,290);
  vertex(177,275);
