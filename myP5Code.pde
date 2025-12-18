@@ -14,6 +14,29 @@ void draw(){
  //midline
   stroke(1,1,1)
   line(205,0,205,400)
+
+ //orange
+ beginShape()
+ vertex(0,120);
+ vertex(0,291);
+ vertex(43,319);
+ vertex(79,374);
+ vertex(117,391);
+ vertex(200,400);
+ vertex(200,356);
+ vertex(240,337);
+ vertex(130,321);
+ vertex(144,290);
+ vertex(177,275);
+ vertex(200,276);
+ vertex(200,229);
+ vertex(134,229);
+ vertex(164,182);
+ vertex(164,93);
+ vertex(78,157);
+ vertex(0,120);
+ endShape()
+ 
   //yellowlines
  stroke(251, 165, 54)
   strokeWeight(3)
@@ -108,6 +131,7 @@ vertex(10,54);
 vertex(0,87);
 vertex(0,0);
 endShape()
+
 
 
 }
