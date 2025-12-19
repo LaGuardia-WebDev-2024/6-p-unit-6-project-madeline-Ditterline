@@ -11,10 +11,7 @@ void draw(){
   strokeWeight(5);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
- //midline
-  stroke(1,1,1)
-  line(205,0,205,400)
-
+ 
  //orange
  fill(229, 124, 72)
  beginShape()
@@ -122,6 +119,7 @@ stroke(1,1,1)
 ellipse(75,82,12,17)
 
 fill(221,19,59)
+strokeWeight(3)
 beginShape()
 vertex(0,0);
 vertex(164,0);
@@ -133,7 +131,31 @@ vertex(0,87);
 vertex(0,0);
 endShape()
 
+//top lines
+stroke(135, 123, 112)
+strokeWeight(2)
+line(26,3,26,50)
+line(60,3,60,39)
+line(97,3,97,32)
+line(137,3,137,54)
 
+//mouth
+fill(195, 56, 70)
+beginShape();
+vertex(200,356);
+vertex(163,345);
+vertex(130,321);
+vertex(144,290);
+vertex(177,275);
+vertex(200,276);
+vertex(215,282);
+vertex(231,275);
+vertex(257,292);
+vertex(278,317);
+vertex(242,344);
+vertex(200,356);
+endShape()
+line(278,317,130,321)
 
 }
 
