@@ -16,7 +16,6 @@ html{
   display: flex;
   flex-wrap: wrap;
   background-color: white;
-  opacity:50%;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 60px;
@@ -28,7 +27,7 @@ html{
   width: 400px;
   object-fit: cover;
   border-radius: 30px;
-  border: 15px double rgb(0, 0, 0);
+  border: 15px double rgb(255, 0, 0);
 }
 
 h2{
