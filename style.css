@@ -16,6 +16,7 @@ html{
   display: flex;
   flex-wrap: wrap;
   background-color: white;
+  opacity:50%
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 60px;
