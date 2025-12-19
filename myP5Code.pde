@@ -14,6 +14,7 @@ void draw(){
  
  //orange
  fill(229, 124, 72)
+ stroke(1,1,1)
  beginShape()
  vertex(0,120);
  vertex(0,291);
@@ -139,6 +140,7 @@ line(60,3,60,39)
 line(97,3,97,32)
 line(137,3,137,54)
 
+stroke(1,1,1)
 //mouth
 fill(195, 56, 70)
 beginShape();
