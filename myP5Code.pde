@@ -175,6 +175,7 @@ endShape()
 //neck
 stroke(1,1,1)
 strokeWeight(2)
+fill(211, 68, 89)
 triangle(118,493,118,0,200,0)
 
 }
