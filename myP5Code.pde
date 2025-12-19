@@ -203,6 +203,22 @@ vertex(200,356);
 vertex(200,400);
 endShape();
 
+//righteye
+fill(219, 202, 90)
+beginShape();
+vertex(400,111);
+vertex(352,137);
+vertex(311,143);
+vertex(259,129);
+vertex(229,113);
+vertex(229,83);
+vertex(260,55);
+vertex(276,34);
+vertex(347,41);
+vertex(400,72);
+vertex(400,111);
+endShape();
+
 }
 
 //🟡Extra FUN Features Ms. Hall Added
