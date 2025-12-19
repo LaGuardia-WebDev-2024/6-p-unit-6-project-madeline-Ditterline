@@ -159,6 +159,22 @@ vertex(200,356);
 endShape()
 line(278,317,130,321)
 
+//blur
+noStroke()
+fill(62, 131, 199)
+beginShape();
+vertex(0,291);
+vertex(32,349);
+vertex(79,374);
+vertex(117,391);
+vertex(200,400);
+vertex(0,400);
+vertex(0,291);
+endShape()
+
+//neck
+triangle(118,7,118,0,200,0)
+
 }
 
 //🟡Extra FUN Features Ms. Hall Added
