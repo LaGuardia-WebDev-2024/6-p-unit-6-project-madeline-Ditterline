@@ -219,6 +219,18 @@ vertex(400,72);
 vertex(400,111);
 endShape();
 
+//rightforehead
+fill(90, 136, 66)
+beginShape()
+vertex(229,83);
+vertex(260,49);
+vertex(276,34);
+vertex(347,41);
+vertex(400,72);
+vertex(400,0);
+vertex(229,0);
+vertex(229,83);
+endShape();
 }
 
 //🟡Extra FUN Features Ms. Hall Added
