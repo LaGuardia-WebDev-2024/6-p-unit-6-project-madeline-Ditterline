@@ -173,7 +173,9 @@ vertex(0,291);
 endShape()
 
 //neck
-triangle(118,7,118,0,200,0)
+stroke(1,1,1)
+strokeWeight(2)
+triangle(118,493,118,0,200,0)
 
 }
 
