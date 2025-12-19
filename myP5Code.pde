@@ -79,7 +79,7 @@ line(167,108,219,103)
 line(167,74,223,73)
 line(167,40,223,40)
 line(167,10,223,10)
-ellipse(162,200,4,4)
+ellipse(162,208,4,4)
 ellipse(189,208,4,4)
 ellipse(206,207,4,4)
 ellipse(230,204,4,4)
@@ -176,7 +176,32 @@ endShape()
 stroke(1,1,1)
 strokeWeight(2)
 fill(211, 68, 89)
-triangle(118,393,118,400,200,400)
+triangle(118,391,118,400,200,400)
+
+//rightcheek
+fill(42, 95, 160)
+beginShape();
+vertex(200,400);
+vertex(292,387);
+vertex(334,362);
+vertex(400,315);
+vertex(400,111);
+vertex(352,137);
+vertex(311,143);
+vertex(259,129);
+vertex(231,113);
+vertex(229,184);
+vertex(269,229);
+vertex(200,232);
+vertex(200,276);
+vertex(215,282);
+vertex(231,275);
+vertex(257,292);
+vertex(278,317);
+vertex(242,344);
+vertex(200,356);
+vertex(200,400);
+endShape();
 
 }
 
