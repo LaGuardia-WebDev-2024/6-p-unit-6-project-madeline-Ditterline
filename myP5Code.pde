@@ -177,6 +177,7 @@ stroke(1,1,1)
 strokeWeight(2)
 fill(211, 68, 89)
 triangle(118,391,118,400,200,400)
+triangle(292,387,292,400,200,400)
 
 //rightcheek
 fill(42, 95, 160)
@@ -230,6 +231,19 @@ vertex(400,72);
 vertex(400,0);
 vertex(229,0);
 vertex(229,83);
+endShape();
+
+//green
+noStroke()
+fill(106, 148, 78)
+beginShape();
+vertex(292,400);
+vertex(292,387);
+vertex(292,387);
+vertex(334,362);
+vertex(400,315);
+vertex(400,400);
+vertex(292,400);
 endShape();
 }
 
