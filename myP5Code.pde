@@ -222,7 +222,9 @@ endShape();
 
 //cornearight
 fill(73, 145, 212)
+strokeWeight(5)
 ellipse(317,75.5,76,77)
+strokeWeight(3)
 fill(44, 104, 180)
 stroke(32, 85, 173)
 ellipse(318.5,74,51,62)
