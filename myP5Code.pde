@@ -220,6 +220,16 @@ vertex(400,72);
 vertex(400,111);
 endShape();
 
+//cornearight
+fill(73, 145, 212)
+ellipse(317,75.5,76,77)
+fill(44, 104, 180)
+stroke(32, 85, 173)
+ellipse(318.5,74,51,62)
+fill(1,1,1)
+stroke(1,1,1)
+ellipse(318,78.5,12,15)
+
 //rightforehead
 fill(90, 136, 66)
 beginShape()
