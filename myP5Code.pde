@@ -212,7 +212,7 @@ vertex(311,143);
 vertex(259,129);
 vertex(229,113);
 vertex(229,83);
-vertex(260,55);
+vertex(260,49);
 vertex(276,34);
 vertex(347,41);
 vertex(400,72);
